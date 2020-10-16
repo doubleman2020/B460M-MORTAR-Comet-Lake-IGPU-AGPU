@@ -3,14 +3,25 @@ This EFI can support Comet Lake's single-core graphics card output (HDMI+DP), an
 
 功能测试
 
-☑️ 随航 Sidecar
+☑️ 並行 Sidecar
+
 ☑️ 接力 Handoff
+
 ☑️ iMessage/FaceTime
-☑️ 隔空投送 AirDrop
-☑️ 睡眠/唤醒 Sleep
-☑️ 所有 USB 端口
-☑️ 核显硬件加速
-☑️ 板载声卡
-☑️ 板载网卡
-板载网卡设置
-系统偏好设置 -> 网络 -> 以太网（高级） -> 硬件 -> 配置:手动, 速度:100baseTX, 双工:全双工, MTU:标准 1500
+
+☑️ AirDrop
+
+☑️ 睡眠/喚醒 Sleep
+
+☑️ USB 端口已定制(暫時不上傳定制驅動程式，日後上傳）
+
+☑️ 內顯加速
+
+☑️ 板載聲卡
+
+☑️ 板載乙太網路卡
+
+板载乙太網路卡設定
+
+系統偏好設定 -> 網路 -> 乙太網路（進階） -> 硬體 -> 設定:手動, 速度:1000baseT（根據你的路由器速率進行設定）, 雙工:全雙工, MTU:標準 1500
+
