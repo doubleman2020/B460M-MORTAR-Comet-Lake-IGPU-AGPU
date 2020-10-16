@@ -1,6 +1,28 @@
 # B460M-MORTAR-Comet-Lake-IGPU-AGPU
 This EFI can support Comet Lake's single-core graphics card output (HDMI+DP), and also supports 5500-5700 graphics card output
 
+### EFI
+
+OpenCore: 0.6.2
+
+Kext：
+
+Lilu--------------------------------------1.4.8
+
+VirtualSMC------------------------------------1.1.7
+
+WhateverGreen---------------------------------1.4.3
+
+AppleALC--------------------------------------1.5.3
+
+LucyRTL8125Ethernet---------------------------1.1.0
+
+USBInjectAll---------------------------------0.7.6
+
+macOS Version: macOS Catalina 10.15.7，macOS Big Sur Beta 10
+
+架構: iMac20,1
+
 功能測試
 
 ☑️ 並行 Sidecar
@@ -29,3 +51,4 @@ This EFI can support Comet Lake's single-core graphics card output (HDMI+DP), an
 <img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/%E7%B6%B2%E8%B7%AF%E8%A8%AD%E5%AE%9A.jpg'/>
 
 <img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/%E9%80%B2%E9%9A%8E.jpg'/>
+
