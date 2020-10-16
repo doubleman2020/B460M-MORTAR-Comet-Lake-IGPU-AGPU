@@ -25,3 +25,4 @@ This EFI can support Comet Lake's single-core graphics card output (HDMI+DP), an
 
 系統偏好設定 -> 網路 -> 乙太網路（進階） -> 硬體 -> 設定:手動, 速度:1000baseT（根據你的路由器速率進行設定）, 雙工:全雙工, MTU:標準 1500
 
+https://raw.githubusercontent.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/8e7a315a54b1a6a018bf31ae3e9bf97b6d9eed66/72F8224DE5F29EC1F166DD7541B7E1E9.jpg
