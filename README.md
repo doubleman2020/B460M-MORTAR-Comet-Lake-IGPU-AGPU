@@ -52,3 +52,5 @@ macOS Version: macOS Catalina 10.15.7，macOS Big Sur Beta 10
 
 <img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/%E9%80%B2%E9%9A%8E.jpg'/>
 
+
+如有其他問題，請加Q群：1125705781，備註小明或B站
